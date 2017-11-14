@@ -42,7 +42,6 @@ public class MainApp extends Application {
 	 * Constructor
 	 */
 	public MainApp() {
-		
 		personData.add(new Person("Hans", "Muster"));
 		personData.add(new Person("Ruth", "Mueller"));
 		personData.add(new Person("Heinz", "Kurz"));
